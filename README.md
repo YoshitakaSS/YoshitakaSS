@@ -51,14 +51,14 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Daara_y/contributions.svg)](http://qiita.com/Daara_y)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Daara_y/followers.svg)](http://qiita.com/Daara_y)
 
-<!-- Like のバッジ -->
-<a href="https://zenn.dev/ysit">
-  <img src="https://zenn.badge.nikaera.com/s/ysit/likes?style=flat" alt="ysit likes" />
-</a>
-
 <!-- Articles のバッジ -->
 <a href="https://zenn.dev/ysit/articles">
   <img src="https://zenn.badge.nikaera.com/s/ysit/articles?style=flat" alt="ysit articles" />
+</a>
+
+<!-- Like のバッジ -->
+<a href="https://zenn.dev/ysit">
+  <img src="https://zenn.badge.nikaera.com/s/ysit/likes?style=flat" alt="ysit likes" />
 </a>
 
 <!-- Followers のバッジ -->
