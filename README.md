@@ -51,27 +51,27 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Daara_y/contributions.svg)](http://qiita.com/Daara_y)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Daara_y/followers.svg)](http://qiita.com/Daara_y)
 
- <!-- Like のバッジ -->
-  <a href="https://zenn.dev/ysit">
-    <img src="https://zenn.badge.nikaera.com/s/ysit/likes?style=plastic" alt="ysit likes" />
-  </a>
+<!-- Like のバッジ -->
+<a href="https://zenn.dev/ysit">
+  <img src="https://zenn.badge.nikaera.com/s/ysit/likes?style=flat" alt="ysit likes" />
+</a>
 
-  <!-- Articles のバッジ -->
-  <a href="https://zenn.dev/ysit/articles">
-    <img src="https://zenn.badge.nikaera.com/s/ysit/articles?style=plastic" alt="ysit articles" />
-  </a>
+<!-- Articles のバッジ -->
+<a href="https://zenn.dev/ysit/articles">
+  <img src="https://zenn.badge.nikaera.com/s/ysit/articles?style=flat" alt="ysit articles" />
+</a>
 
-  <!-- Followers のバッジ -->
-  <a href="https://zenn.dev/ysit/followers">
-    <img src="https://zenn.badge.nikaera.com/s/ysit/followers?style=plastic" alt="ysit followers" />
-  </a>
+<!-- Followers のバッジ -->
+<a href="https://zenn.dev/ysit/followers">
+  <img src="https://zenn.badge.nikaera.com/s/ysit/followers?style=flat" alt="ysit followers" />
+</a>
 
-  <!-- Books のバッジ -->
-  <a href="https://zenn.dev/ysit/books">
-    <img src="https://zenn.badge.nikaera.com/s/ysit/books?style=plastic" alt="ysit books" />
-  </a>
+<!-- Books のバッジ -->
+<a href="https://zenn.dev/ysit/books">
+  <img src="https://zenn.badge.nikaera.com/s/ysit/books?style=flat" alt="ysit books" />
+</a>
 
-  <!-- Scraps のバッジ -->
-  <a href="https://zenn.dev/ysit/scraps">
-    <img src="https://zenn.badge.nikaera.com/s/ysit/scraps?style=plastic" alt="ysit scraps" />
-  </a>
+<!-- Scraps のバッジ -->
+<a href="https://zenn.dev/ysit/scraps">
+  <img src="https://zenn.badge.nikaera.com/s/ysit/scraps?style=flat" alt="ysit scraps" />
+</a>
